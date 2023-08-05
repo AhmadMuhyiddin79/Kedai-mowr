@@ -212,7 +212,7 @@ body {
 }
 
 .hero .content h1 span {
-  color: var(--black);
+  color: blue;
 }
 
 .hero .content p {
